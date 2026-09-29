@@ -63,24 +63,24 @@ Below is a comparative breakdown of leading enterprise Agency Management Systems
 
 ## 🔓 Open-Source GitHub Projects
 
-Open-source agency management software, CRM frameworks, claims engines, and commission processing tools. Sorted by GitHub star count (descending) 🌟.
+Open-source agency management software, CRM frameworks, claims engines, and commission processing tools. Sorted by GitHub Stars_Count (descending) 🌟.
 
-- **[Quickfire / Openfire](https://github.com/flashvenom/quickfire)** [![GitHub stars](https://img.shields.io/github/stars/flashvenom/quickfire?style=social&color=white)](https://github.com/flashvenom/quickfire/stargazers) ⭐  
+- **[Quickfire / Openfire](https://github.com/flashvenom/quickfire)** [![GitHub_Stars](https://img.shields.io/github/stars/flashvenom/quickfire?style=social&color=white)](https://github.com/flashvenom/quickfire/stargazers) ⭐  
   The leading open-source insurance Agency Management System (AMS) for independent P&C brokers, wholesalers, and MGAs. Built with **ASP.NET Core 10**, **Blazor Server**, Entity Framework Core, FluentUI, and SQL Server/SQLite. Features comprehensive client & policy management, payment & lead API integrations, OpenAI integration for automated data entry, renewal tracking, certificate issuance, Company Manual documentation module, and Forms Library PDF manager.
 
-- **[InsurancePro CRM](https://github.com/prolinkinfo/InsuranceProCRM)** [![GitHub stars](https://img.shields.io/github/stars/prolinkinfo/InsuranceProCRM?style=social&color=white)](https://github.com/prolinkinfo/InsuranceProCRM/stargazers) ⭐  
+- **[InsurancePro CRM](https://github.com/prolinkinfo/InsuranceProCRM)** [![GitHub_Stars](https://img.shields.io/github/stars/prolinkinfo/InsuranceProCRM?style=social&color=white)](https://github.com/prolinkinfo/InsuranceProCRM/stargazers) ⭐  
   Open-source CRM empowering insurance agents to manage clients, policy records, and lead pipelines through an intuitive web interface. Built with JavaScript and Node.js.
 
-- **[Surefire](https://github.com/flashvenom/surefire)** [![GitHub stars](https://img.shields.io/github/stars/flashvenom/surefire?style=social&color=white)](https://github.com/flashvenom/surefire/stargazers) ⭐  
+- **[Surefire](https://github.com/flashvenom/surefire)** [![GitHub_Stars](https://img.shields.io/github/stars/flashvenom/surefire?style=social&color=white)](https://github.com/flashvenom/surefire/stargazers) ⭐  
   Agency Management System and productivity suite for P&C insurance agencies and brokers, built with Blazor .NET 9 and FluentUI. Shares core lineage with the Quickfire/Openfire ecosystem.
 
-- **[DEMiHAT/IMS (Insurance Management System)](https://github.com/DEMiHAT/IMS)** [![GitHub stars](https://img.shields.io/github/stars/DEMiHAT/IMS?style=social&color=white)](https://github.com/DEMiHAT/IMS/stargazers) ⭐  
+- **[DEMiHAT/IMS (Insurance Management System)](https://github.com/DEMiHAT/IMS)** [![GitHub_Stars](https://img.shields.io/github/stars/DEMiHAT/IMS?style=social&color=white)](https://github.com/DEMiHAT/IMS/stargazers) ⭐  
   Full-stack Insurance Management System built with Python (Flask) and MySQL (MIT Licensed). Provides web admin & agent portals for client management, policy assignment, claims tracking, payment logging, and agent-customer mapping.
 
-- **[GeoffreyOmollo/insurance-management-system](https://github.com/GeoffreyOmollo/insurance-management-system)** [![GitHub stars](https://img.shields.io/github/stars/GeoffreyOmollo/insurance-management-system?style=social&color=white)](https://github.com/GeoffreyOmollo/insurance-management-system/stargazers) ⭐  
+- **[GeoffreyOmollo/insurance-management-system](https://github.com/GeoffreyOmollo/insurance-management-system)** [![GitHub_Stars](https://img.shields.io/github/stars/GeoffreyOmollo/insurance-management-system?style=social&color=white)](https://github.com/GeoffreyOmollo/insurance-management-system/stargazers) ⭐  
   Insurance Policy Management System built with Angular (frontend) and C#/.NET (backend) using PostgreSQL and Dapper ORM. Features coverage rules, exclusion lists, monthly premium deduction tracking, and policy limits.
 
-- **[pavith-raj/Insurance-Policy-Mangagement-System](https://github.com/pavith-raj/Insurance-Policy-Mangagement-System)** [![GitHub stars](https://img.shields.io/github/stars/pavith-raj/Insurance-Policy-Mangagement-System?style=social&color=white)](https://github.com/pavith-raj/Insurance-Policy-Mangagement-System/stargazers) ⭐  
+- **[pavith-raj/Insurance-Policy-Mangagement-System](https://github.com/pavith-raj/Insurance-Policy-Mangagement-System)** [![GitHub_Stars](https://img.shields.io/github/stars/pavith-raj/Insurance-Policy-Mangagement-System?style=social&color=white)](https://github.com/pavith-raj/Insurance-Policy-Mangagement-System/stargazers) ⭐  
   Insurance Management Database schema designed with MySQL for health, life, and vehicle policy handling, claims recording, sum assured calculations, and premium tracking.
 
 ### 🌟 Additional Specialized Open-Source Modules
@@ -149,7 +149,7 @@ If you find this curated directory helpful for your research, agency, or softwar
 
 - This list is **community-curated** for educational and informational purposes only.
 - Software selection for insurance operations must adhere to relevant insurance licensing laws, data privacy regulations (GDPR, CCPA, HIPAA), and financial auditing standards.
-- Pricing, valuations, and star counts are updated periodically as of **September 2026**.
+- Pricing, valuations, and Stars_Counts are updated periodically as of **September 2026**.
 
 ---
 
